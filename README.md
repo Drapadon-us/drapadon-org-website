@@ -1,2 +1,3 @@
 # drapadon-us-revamp-site
-Remaking the drapadon.us site from scratch! A more intensive project that isn't stolen code!
+
+I finally remade the drapadon.org main site from scratch! I hope you enjoy it!
