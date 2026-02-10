@@ -1,3 +1,3 @@
-# drapadon-us-revamp-site
+# drapadon-org-website
 
-I finally remade the drapadon.org main site from scratch! I hope you enjoy it!
+The drapadon.org main site is no longer stolen code, as it was recoded.
